@@ -55,3 +55,6 @@ Tujuan utama proyek ini adalah untuk memfasilitasi manajemen langganan dan pemro
 Meskipun proyek ini tidak langsung melibatkan AI dalam antarmuka pengguna atau logika backend, proses pengembangannya dibantu oleh AI, yang membantu mengotomatisasi tugas berulang dan menghasilkan kode yang dapat digunakan kembali. Penggunaan AI ini mempercepat proses pengembangan dan memastikan pengelolaan kode yang efisien, yang pada akhirnya mengurangi waktu yang dibutuhkan untuk mengimplementasikan fungsionalitas inti dari integrasi pembayaran Midtrans.
 
 AI juga berkontribusi dengan memberikan saran praktik terbaik selama pengembangan integrasi gateway pembayaran, sehingga prosesnya menjadi lebih lancar dan bebas dari kesalahan.
+
+## testing sandbox midrans
+akses: https://simulator.sandbox.midtrans.com/ (piilih metode pembayaran yang sama sesuai di aplikasi)
