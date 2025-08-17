@@ -1,0 +1,47 @@
+body{
+    overflow: auto;
+}
+nav span{
+    color: rgb(6, 184, 6);
+}
+.container h1 span{
+    color: rgb(0, 208, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container h1{
+    color: white;
+}
+.container button{
+    width: 85px;
+    height: 25px;
+    padding: 0px;
+    margin-top: 20px;
+}
+.banner{
+    background: url("{{ asset(gambar/Gambar WhatsApp 2024-10-29 pukul 22.34.12_83d9c8bf.jpg') }}") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    opacity: 10px;
+}
+.col-8 h2{
+ color: rgb(0, 208, 255);
+}
+.card-header button{
+    width: 100%;
+}
+.card{
+    margin: 20px 31px 50px 31px;
+}
+.col H2{
+    color: rgb(0, 208, 255);
+}
+section{
+    padding: 5rem;;
+}
+footer i{
+    padding: 5px;
+}
+footer span{
+    color: rgb(6, 184, 6);
+}
